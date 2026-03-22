@@ -1,7 +1,7 @@
 Car Type Classifier (AI)
 Description
 
-This project is a machine learning model that classifies car types (SUV, sedan, hatchback, pickup, etc.) from images.
+This project is a machine learning model that classifies car types (SUV, sedan, hatchback, pickup, other) from images.
 
 Features
 Image-based car classification
